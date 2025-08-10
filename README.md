@@ -36,7 +36,7 @@ Key capabilities include:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/aitomate.git
+   git clone https://github.com/30omarnasser/AItoMate/blob/main/AItoMate.py
    cd aitomate
    ```
 
@@ -106,4 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with inspiration from GraphRAG systems and multimodal AI.
 - Thanks to Voyage AI, Ollama, and Neo4j communities.
 
-For questions, contact [your.email@example.com].
+For questions, contact [3omarnassereldin@gmail.com].
