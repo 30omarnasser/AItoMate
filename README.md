@@ -89,9 +89,9 @@ Key capabilities include:
 
 *(Add screenshots here or link to images in repo)*
 
-- **Main Interface**: ![Main Header](screenshots/header.png)
-- **Chat Session**: ![Chat](screenshots/chat.png)
-- **Analytics Dashboard**: ![Analytics](screenshots/analytics.png)
+- **Main Interface**: ![Main Header](<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/fefa80c0-8b4e-4a6d-9bf8-deb4bb0678c2" />)
+- **Chat Session**: ![Chat](<img width="1611" height="512" alt="image" src="https://github.com/user-attachments/assets/f2225a2d-c5e5-42f9-8ff4-7bc17fc5a2da" />)
+- **Analytics Dashboard**: ![Analytics](<img width="1614" height="589" alt="image" src="https://github.com/user-attachments/assets/302d5472-d306-41a4-b7d5-05b1449ebae0" />)
 
 ## Contributing
 
