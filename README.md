@@ -103,10 +103,6 @@ Key capabilities include:
 
 Contributions welcome! Fork the repo, create a branch, and submit a PR. For issues, use GitHub Issues.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built with inspiration from GraphRAG systems and multimodal AI.
